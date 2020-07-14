@@ -12,7 +12,7 @@ name = input("Who do you want to send it to?\n")
 msg = input("What is the message?\n")
 count = int(input("How many times do you want to send the message?\n"))
 pause = int(input("After how many messages do you want a short pause?\n"))
-length = int(input("How long is the pause?"))
+length = int(input("How long is the pause?\n"))
 #before you press enter here, make sure 
 input("ready?")
 
