@@ -1,0 +1,4 @@
+When looking for the class of the text box, this should get highlighted
+https://gyazo.com/062836d98673a9146489f14236924996
+when looking for the class of the send button, this should get highlighted
+https://gyazo.com/1d7d8c095f9be4db497216c6b3676481
